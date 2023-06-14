@@ -34,13 +34,6 @@ predictedCO2=regr.predict([[3300,1300]])
 print("Predicted CO2 :",predictedCO2)
 ```
 ## Output:
-Coefficient: [0.00755095 0.00780526]
-Intersept: 79.69471929115939
-Predicted CO2 : [114.75968007]
-/usr/local/lib/python3.10/dist-packages/sklearn/base.py:439: UserWarning: X does not have valid feature names, but LinearRegression was fitted with feature names
-  warnings.warn(
-
-### Insert your output
 ![Screenshot 2023-05-29 140844](https://github.com/shalinikannan23/Multivariate-Linear-Regression/assets/118656529/b12280ed-a3b2-4930-8659-c6725c8092ee)
 
 
